@@ -8,3 +8,6 @@
 - WeightedSampling
 - LearningRate Decay
 - etc
+
+### Test Accuracy
+- 80.83%
